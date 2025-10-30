@@ -1,0 +1,2 @@
+window,pre_acc,pre_f1,post_acc,post_f1,retrain_time_s,mem_diff_mb
+0,0.761,0.7498418789176967,0.94,0.9368956743724011,0.32,12.44

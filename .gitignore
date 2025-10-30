@@ -16,3 +16,7 @@ data/*.csv
 # Results (ignore heavy files)
 results/*.pkl
 results/*.log
+
+results/*.csv
+results/*.joblib
+results/*.png

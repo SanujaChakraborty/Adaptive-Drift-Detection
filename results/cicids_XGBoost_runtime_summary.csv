@@ -1,2 +1,0 @@
-window,pre_acc,pre_f1,post_acc,post_f1,retrain_time_s,mem_diff_mb,features
-0,1.0,1.0,1.0,1.0,0.11,0.0,"destination port,max packet length,packet length std,bwd packet length max,bwd packet length std,bwd packet length mean,avg bwd segment size,packet length variance,average packet size,init_win_bytes_backward,init_win_bytes_forward,ack flag count"

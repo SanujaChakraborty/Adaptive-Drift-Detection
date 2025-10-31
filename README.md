@@ -93,7 +93,8 @@ LTI_PROJECT/
 
 
 # Author
+```
 Sanuja Chakraborty 
 M.Tech, Computer Science and Engineering (AI & DS)
-
+```
 
